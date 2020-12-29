@@ -1,0 +1,28 @@
+ publicClouds:
+    - name: "Amazon web services"
+      shortname: "AWS"
+      ReleasedOn: "March 14, 2006"
+      CEO: "Andy JAssy"
+      Services: 
+        - EC2
+        - S3
+        - RDS
+
+    - name: "Microsoft Azure"
+      shortname: "Azure"
+      ReleasedOn: "February 1, 2010"
+      CEO: "Satya Nadella"
+      Services: 
+        - Azure SQL
+        - APP Services
+        - VM
+
+    - name: "Google cloud"
+      shortname: "GCP"
+      ReleasedOn: "Aprial 7, 2008 "
+      CEO: "Thomas Kurian"
+      Services: 
+        - GKE
+        - Compute Engine
+        - BigTable
+---        
